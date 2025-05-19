@@ -43,8 +43,8 @@ plans_plan has the information for the finacial plans, so we join it together wi
 
 
 # Assessment_Q4
-The formular here, I hope I got it with the implementation 
-
+Here the query pulls data from users_customuser and joins it with savings_savingsaccount  using the customer’s ID
+from this, the table is drawn out and also includes the estimated CLV
 
 
 
